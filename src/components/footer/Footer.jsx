@@ -1,5 +1,4 @@
 import "./footer.css";
-import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 
 const Footer = () => {
@@ -21,9 +20,6 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/faizan-asad-khan/">
-          <BsLinkedin />
-        </a>
         <a href="https://github.com/faizi20">
           <BsGithub />
         </a>

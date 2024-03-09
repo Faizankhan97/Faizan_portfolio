@@ -34,14 +34,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Im a <b>Computer Science gradute</b> at the Iqra University. Im an
-            enthusiastic and driven Computer Science student seeking a
-            challenging internship opportunity to apply and expand my technical
-            skills. With a strong academic foundation in software engineering
-            and hands-on experience in various programming languages, I am eager
-            to contribute to innovative projects and learn from experienced
-            professionals in the industry. I am a quick learner who is always
-            ready to face challenges.
+            Passionate frontend developer with 3 years of experience crafting
+            user-focused web applications. Proficient in HTML, CSS, and
+            JavaScript, with expertise in modern frameworks. Dedicated to
+            creating intuitive and visually appealing interfaces. Excited to
+            continue pushing boundaries in frontend development.
           </p>
         </div>
       </div>

@@ -1,11 +1,12 @@
 import "./footer.css";
+import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 
 const Footer = () => {
   return (
     <footer>
       <a href="#home" className="footer__logo">
-        Faizan Khan
+        Faizan Asad Khan
       </a>
       <ul className="permalinks">
         <li>
@@ -17,9 +18,15 @@ const Footer = () => {
         <li>
           <a href="#experience">Experience</a>
         </li>
+        <li>
+          <a href="#myprojects">My Projects</a>
+        </li>
       </ul>
 
       <div className="footer__socials">
+        <a href="https://www.linkedin.com/in/faizan-asad-khan/">
+          <BsLinkedin />
+        </a>
         <a href="https://github.com/faizi20">
           <BsGithub />
         </a>

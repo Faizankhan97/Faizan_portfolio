@@ -8,13 +8,12 @@ const Myprojects = () => {
 
       <div className="container portfolio__container">
         <article className="portfolio__item">
-          <div className="portfolio__item-image">
-          </div>
+          <div className="portfolio__item-image"></div>
           <h3>Fake API</h3>
           <small className="text-light">HTML | CSS | React JS</small>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/faizi20/fake_api"
+              href="https://github.com/Faizankhan97/fake_api"
               target="_blank"
               rel="noreferrer"
               className="btn"
@@ -32,13 +31,12 @@ const Myprojects = () => {
           </div>
         </article>
         <article className="portfolio__item">
-          <div className="portfolio__item-image">
-          </div>
-          <h3>Basic Banking System</h3>
-          <small className="text-light">HTML | CSS | JS</small>
+          <div className="portfolio__item-image"></div>
+          <h3>Weather API</h3>
+          <small className="text-light">React JS</small>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/faizi20/Basic-Banking-System"
+              href="https://github.com/Faizankhan97/weather-api"
               target="_blank"
               rel="noreferrer"
               className="btn"
@@ -46,7 +44,7 @@ const Myprojects = () => {
               Github
             </a>
             <a
-              href="https://faizi20.github.io/Basic-Banking-System/"
+              href="https://weather-api-swart-psi.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="btn btn-primary"
